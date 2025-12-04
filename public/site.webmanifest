@@ -1,0 +1,16 @@
+{
+    "name": "helpmelearnthis",
+    "short_name": "HelpMeLearn",
+    "description": "A customized testing webapp with adaptive difficulty and gamified elements.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "/favicon.png",
+            "sizes": "any",
+            "type": "image/png"
+        }
+    ]
+}
